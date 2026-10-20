@@ -2,4 +2,5 @@
 .env
 __pycache__/
 .pytest_cache/
+src/ai_email_assistant.egg-info
 *.py[cod]
